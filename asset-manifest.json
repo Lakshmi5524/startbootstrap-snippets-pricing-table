@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/startbootstrap-snippets-pricing-table.git/static/css/main.b5015fba.chunk.css",
+    "main.js": "/startbootstrap-snippets-pricing-table.git/static/js/main.9431dcff.chunk.js",
+    "main.js.map": "/startbootstrap-snippets-pricing-table.git/static/js/main.9431dcff.chunk.js.map",
+    "runtime-main.js": "/startbootstrap-snippets-pricing-table.git/static/js/runtime-main.e53bfcdc.js",
+    "runtime-main.js.map": "/startbootstrap-snippets-pricing-table.git/static/js/runtime-main.e53bfcdc.js.map",
+    "static/js/2.e9f049f3.chunk.js": "/startbootstrap-snippets-pricing-table.git/static/js/2.e9f049f3.chunk.js",
+    "static/js/2.e9f049f3.chunk.js.map": "/startbootstrap-snippets-pricing-table.git/static/js/2.e9f049f3.chunk.js.map",
+    "static/js/3.1f8de689.chunk.js": "/startbootstrap-snippets-pricing-table.git/static/js/3.1f8de689.chunk.js",
+    "static/js/3.1f8de689.chunk.js.map": "/startbootstrap-snippets-pricing-table.git/static/js/3.1f8de689.chunk.js.map",
+    "index.html": "/startbootstrap-snippets-pricing-table.git/index.html",
+    "static/css/main.b5015fba.chunk.css.map": "/startbootstrap-snippets-pricing-table.git/static/css/main.b5015fba.chunk.css.map",
+    "static/js/2.e9f049f3.chunk.js.LICENSE.txt": "/startbootstrap-snippets-pricing-table.git/static/js/2.e9f049f3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/startbootstrap-snippets-pricing-table.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e53bfcdc.js",
+    "static/js/2.e9f049f3.chunk.js",
+    "static/css/main.b5015fba.chunk.css",
+    "static/js/main.9431dcff.chunk.js"
+  ]
+}
